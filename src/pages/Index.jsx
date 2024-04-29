@@ -10,6 +10,8 @@ const Index = () => {
         <Image src="/images/beyonce1.jpg" alt="Beyoncé performing" boxSize="300px" />
         <Image src="/images/beyonce2.jpg" alt="Beyoncé on red carpet" boxSize="300px" />
         <Image src="/images/beyonce3.jpg" alt="Beyoncé in a music video" boxSize="300px" />
+        <Image src="/images/beyonce4.jpg" alt="Beyoncé at an award ceremony" boxSize="300px" />
+        <Image src="/images/beyonce5.jpg" alt="Beyoncé in studio" boxSize="300px" />
       </SimpleGrid>
       <Box d="flex" alignItems="center" justifyContent="space-between" w="full" pt={5}>
         <FaInstagram size="2em" />
